@@ -1,0 +1,50 @@
+.EachGoalDiv{
+    width: 65%;
+    /* border: 1px solid black; */
+    /* margin-right: -70px; */
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+}
+.EachGoalDiv div{
+    display: flex;
+    width: 85%;
+    color:#fff;
+    font-size: 1.3rem;
+    height: 150px;
+    background-color:#522e1c;
+    margin: 40px;
+    justify-content: space-between;
+    border-radius: 12px;
+    transition: 1s;
+    align-items: center;
+    /*  */
+    overflow: hidden;
+    padding:5px;
+    padding-left: 10px;
+    /* flex-wrap: wrap; */
+}
+.EachGoalDiv div:hover{
+    width: 95%;
+    transition: 1.1s;
+    background-color: #88c9cb;
+    color: #764329;
+}
+.EachGoalDiv div img{
+    width:200px;
+    height: 200px;
+}
+.goalDiv {
+    display: flex;
+}
+.goalImg{
+    width: 75%;
+    padding: 15px;
+    padding-top: 37px;
+    /* border: 1px solid black; */
+}
+.goalImg img{
+    width: 75%;
+    border-radius: 12px;
+}

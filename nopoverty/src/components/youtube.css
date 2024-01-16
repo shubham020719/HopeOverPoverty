@@ -1,0 +1,21 @@
+.yuotube-div{
+    background-color: #fff;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, .25);
+    width: 85%;
+    margin: auto;
+    border-radius: 13px;
+    /* padding:10px; */
+}
+.yuotube-div h1{
+    /* padding:20px; */
+    margin: 20px;
+}
+.yuotube-div p {
+    /* padding:20px; */
+    margin: 20px;
+}
+.yuotube-div iframe {
+    /* padding:20px; */
+    margin-bottom: 20px;
+    border-radius: 13px;
+}
